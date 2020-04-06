@@ -1,5 +1,5 @@
 - GraphQl Api created using AWS AppSync. 
-- Please note that I gay out visited cards instead of adding transparency for visibility reasons. 
+- Please note that I grayed out visited cards instead of adding transparency for visibility reasons. 
 ____
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
