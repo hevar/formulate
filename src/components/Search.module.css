@@ -1,0 +1,33 @@
+.search {
+  width: 100%;
+  position: relative;
+  display: flex;
+}
+
+.searchTerm {
+  width: 100%;
+  border: 3px solid #5b8db5;
+  padding: 5px;
+  height: 20px;
+  border-radius: 5px;
+  outline: none;
+  color: #4b4b4b;
+  margin-bottom: 20px;
+}
+
+.searchTerm:focus {
+  border-color: #1eb6f1;
+}
+
+.wrap {
+  margin: 50px auto;
+  width: 50%;
+  top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.loading {
+  color: #525252;
+}
